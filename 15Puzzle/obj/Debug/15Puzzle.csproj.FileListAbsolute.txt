@@ -1,0 +1,21 @@
+c:\users\root\documents\visual studio 2012\Projects\15Puzzle\15Puzzle\bin\Debug\15Puzzle.exe.config
+c:\users\root\documents\visual studio 2012\Projects\15Puzzle\15Puzzle\obj\Debug\_15Puzzle.Form1.resources
+c:\users\root\documents\visual studio 2012\Projects\15Puzzle\15Puzzle\obj\Debug\_15Puzzle.Properties.Resources.resources
+c:\users\root\documents\visual studio 2012\Projects\15Puzzle\15Puzzle\obj\Debug\15Puzzle.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2012\Projects\15Puzzle\15Puzzle\bin\Debug\15Puzzle.exe
+c:\users\root\documents\visual studio 2012\Projects\15Puzzle\15Puzzle\bin\Debug\15Puzzle.pdb
+c:\users\root\documents\visual studio 2012\Projects\15Puzzle\15Puzzle\obj\Debug\15Puzzle.exe
+c:\users\root\documents\visual studio 2012\Projects\15Puzzle\15Puzzle\obj\Debug\15Puzzle.pdb
+c:\users\root\documents\visual studio 2012\Projects\15Puzzle\15Puzzle\obj\Debug\15Puzzle.csprojResolveAssemblyReference.cache
+I:\15Puzzle\15Puzzle\bin\Debug\15Puzzle.exe.config
+I:\15Puzzle\15Puzzle\obj\Debug\15Puzzle.exe
+I:\15Puzzle\15Puzzle\obj\Debug\15Puzzle.pdb
+I:\15Puzzle\15Puzzle\bin\Debug\15Puzzle.exe
+I:\15Puzzle\15Puzzle\bin\Debug\15Puzzle.pdb
+I:\15Puzzle\15Puzzle\obj\Debug\15Puzzle.csprojResolveAssemblyReference.cache
+I:\15Puzzle\15Puzzle\obj\Debug\_15Puzzle.Form1.resources
+I:\15Puzzle\15Puzzle\obj\Debug\_15Puzzle.Properties.Resources.resources
+I:\15Puzzle\15Puzzle\obj\Debug\15Puzzle.csproj.GenerateResource.Cache
+H:\15Puzzle\15Puzzle\bin\Debug\15Puzzle.exe.config
+H:\15Puzzle\15Puzzle\obj\Debug\15Puzzle.exe
+H:\15Puzzle\15Puzzle\obj\Debug\15Puzzle.pdb
